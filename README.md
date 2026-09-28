@@ -23,3 +23,6 @@ This project helped me practice using functions, loops, conditional statements, 
 ## Project Purpose
 
 This project was created as part of my Software Engineering coursework. The goal was to create a functional clock application while following programming best practices and writing organized, readable code.
+
+
+![Chada Tech Clock running](Chada%20tech%20clock.png)
